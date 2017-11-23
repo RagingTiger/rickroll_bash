@@ -1,6 +1,6 @@
 ## About
-Prank your macOS friends with a good 'ole Rick Roll. Two options for the 
-prank:
+Prank your macOS friends with a good 'ole Rick Roll. To execute, just get 
+access to a shell session on their machine and choose one of the following:
 
 ### Execute Directly
 ```
